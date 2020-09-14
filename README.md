@@ -1,1 +1,3 @@
-# Heroku-deployment-Spam-VS-Ham
+# NLP-Model-Deployment
+
+https://nlpspamprediction1.herokuapp.com/ #Link for deployed model
